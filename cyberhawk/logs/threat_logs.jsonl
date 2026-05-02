@@ -1,0 +1,6 @@
+{"timestamp": "2026-04-23 20:11:24", "event_type": "website_scan", "target": "https://mmmithaiwala.in/", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 5.37, "confidence_score": 68.0}
+{"timestamp": "2026-04-23 20:15:28", "event_type": "website_scan", "target": "https://www.naturesbasket.co.in/", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 8.53, "confidence_score": 70.0}
+{"timestamp": "2026-04-23 20:19:38", "event_type": "website_scan", "target": "https://www.zomato.com/", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 4.82, "confidence_score": 61.0}
+{"timestamp": "2026-04-28 15:15:05", "event_type": "website_scan", "target": "https://example.com, http://192.168.1.1, https://login-secure-paypal.fake.xyz", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 5.06, "confidence_score": 96.0}
+{"timestamp": "2026-04-28 15:15:24", "event_type": "website_scan", "target": "https://www.youtube.com/", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 0.34, "confidence_score": 34.0}
+{"timestamp": "2026-04-28 15:40:08", "event_type": "website_scan", "target": "https://youtube.com", "attack_type": "multiple_url_analysis", "risk_level": "Mixed", "risk_score": 0.35, "confidence_score": 35.0}
